@@ -1,4 +1,4 @@
-baseURL = "https://xaviablaza.com"
+baseURL = "https://xaviablaza.com/"
 languageCode = "en-us"
 title = "Xavi Ablaza"
 theme = "hugo-lodi-theme"
