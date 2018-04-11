@@ -1,3 +1,6 @@
+`master` branch is what is deployed on xaviablaza.com
+`dev` branch is the development branch for new additions or changes
+
 Some ideas I'd like to build:
 - Business card app with link redirects that give you push notifications and reminders to follow-up with someone
 - CSAFE, but using stellar to manage payments
