@@ -11,12 +11,16 @@ publishDir = "docs"
     description_photo = "portfolio.jpg"
     favicon = "favicon-x.png"
     logo = "logo-x.png"
+
+    # if there are 6 active icons below then space them out
+    space_out = true
     email = "xlablaza@gmail.com"
     facebook = "xlablaza"
-    #twitter = ""
+    twitter = "xaviablaza"
     #dribbble = ""
     linkedin = "https://www.linkedin.com/in/xaviablaza"
     medium = "xaviablaza"
+    github = "xaviablaza"
 
 [params.nav]
     enable = true
