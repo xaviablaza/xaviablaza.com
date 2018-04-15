@@ -1,0 +1,4 @@
+weight: 1
+title: "Docker"
+icon: "docker.svg"
+description: "I find that running apps within Docker containers relieves a lot of manual intervention, especially for small teams."

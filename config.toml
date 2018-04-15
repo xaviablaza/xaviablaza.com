@@ -34,11 +34,11 @@ googleAnalytics = ""
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "My Toolset"
+    subtitle = "From my varied set of tools, these are my favorites:"
 
 [params.case_studies]
-    enable = true
+    enable = false
     title = "Case Studies"
     subtitle = "Selected Works"
 

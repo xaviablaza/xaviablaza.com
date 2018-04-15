@@ -1,0 +1,4 @@
+weight: 2
+title: "Netlify"
+icon: "netlify.svg"
+description: "My workflow for creating landing pages involves constant deploys using Netlify to get immediate feedback from clients."
