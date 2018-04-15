@@ -10,6 +10,7 @@ Some ideas I'd like to build:
 - [Chapman Radio](https://github.com/pollend/chapmanradio) on rails
 - UXSoc website theme using hugo
 - Greener Pastures, using stellar
+- Stellar SaaS (?) something like what corelogic does to sell data and get data from local barangays, schools, something like that
 
 Some fonts I like:
 - Brandon Grotesque
