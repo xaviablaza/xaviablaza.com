@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "Xavi Ablaza"
 theme = "hugo-lodi-theme"
 googleAnalytics = ""
-publishDir = "docs"
 
 [params]
     theme_color = "#0B434C"
