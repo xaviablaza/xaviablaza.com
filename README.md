@@ -11,7 +11,7 @@ Some ideas I'd like to build:
 - UXSoc website theme using hugo
 - Greener Pastures, using stellar
 - Stellar SaaS (?) something like what corelogic does to sell data and get data from local barangays, schools, something like that
-- [Helios frontend](https://helios.cssninja.io/), ruby on rails backend with [solidus](solidus.io) as an ecommerce website
+- [Helios frontend](https://helios.cssninja.io/), ruby on rails backend with [solidus](solidus.io) as an ecommerce website, using coins.ph as payments gateway
 
 Some fonts I like:
 - Brandon Grotesque
