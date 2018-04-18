@@ -7,7 +7,7 @@ googleAnalytics = ""
 [params]
     theme_color = "#0B434C"
     description = "Portfolio of Xavi Ablaza, Software Engineer"
-    description_photo = "portfolio.jpg"
+    description_photo = "portfolio-x.jpg"
     favicon = "favicon-x.png"
     logo = "logo-x.png"
 
