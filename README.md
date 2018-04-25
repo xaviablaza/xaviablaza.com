@@ -12,6 +12,7 @@ Some ideas I'd like to build:
 - Greener Pastures, using stellar
 - Stellar SaaS (?) something like what corelogic does to sell data and get data from local barangays, schools, something like that
 - [Helios frontend](https://helios.cssninja.io/), ruby on rails backend with [solidus](solidus.io) as an ecommerce website, using coins.ph as payments gateway or using shopee api as a payments and fulfillment service
+- https://ezrabox.com/
 - uxsoc agency portal for contracts
 
 Some fonts I like:
