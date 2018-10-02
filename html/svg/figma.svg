@@ -1,0 +1,22 @@
+<svg width="25" height="36" viewBox="0 0 25 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Canvas" fill="none">
+<g id="figma-1 (1)">
+<g id="path0 fill">
+<path d="M 6.25 12C 9.7 12 12.5 9.31203 12.5 6.00002L 12.5 0L 6.25 0C 2.8 0 0 2.68801 0 6.00002C 0 9.31203 2.8 12 6.25 12Z" transform="translate(0 24)" fill="#0ACF83"/>
+</g>
+<g id="path1 fill">
+<path d="M 0 6.00002C 0 2.68801 2.8 0 6.25 0L 12.5 0L 12.5 12L 6.25 12C 2.8 12 0 9.31203 0 6.00002Z" transform="translate(0 12.0001)" fill="#A259FF"/>
+</g>
+<g id="path1 fill 1">
+<path d="M 0 6.00002C 0 2.68801 2.8 0 6.25 0L 12.5 0L 12.5 12L 6.25 12C 2.8 12 0 9.31203 0 6.00002Z" fill="#F24E1E"/>
+</g>
+<g id="path2 fill">
+<path d="M 0 0L 6.25 0C 9.7 0 12.5 2.68801 12.5 6.00002C 12.5 9.31203 9.7 12 6.25 12L 0 12L 0 0Z" transform="translate(12.5 0)" fill="#FF7262"/>
+</g>
+<g id="path3 fill">
+<path d="M 12.5 6.00002C 12.5 9.31203 9.7 12 6.25 12C 2.8 12 0 9.31203 0 6.00002C 0 2.68801 2.8 0 6.25 0C 9.7 0 12.5 2.68801 12.5 6.00002Z" transform="translate(12.5 12.0001)" fill="#1ABCFE"/>
+</g>
+</g>
+</g>
+</svg>
+
